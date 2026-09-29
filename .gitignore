@@ -1,0 +1,8 @@
+/out/
+/data/
+/backups/
+__pycache__/
+*.pyc
+.venv/
+*.env
+.env.*
